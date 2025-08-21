@@ -7,6 +7,7 @@ public class Main {
         Scanner scan = new Scanner(System.in);
         int nota = recebeNota(scan);
         System.out.println(verificaNota(nota));
+        scan.nextLine();
         scan.close();
     }
 
