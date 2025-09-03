@@ -9,6 +9,15 @@ public class Main {
         //digitar outro num
         //fazer um array com todos numeros desse intervalo
         //verificar quais numeros desse intervalo é primo
+
+        int firstNumber = setNumber(scan);
+        int secondNumber = setNumber(scan);
+
+        int smallerNumber = checkIfIsSmaller(firstNumber, secondNumber);
+        int largerNumber = checkIfIsLargger(firstNumber, secondNumber);
+
+        int[] range = createArray(smallerNumber, largerNumber);
+        printPrimeNumbers(range);
     }
 
     public static int setNumber(Scanner scan){
@@ -43,13 +52,23 @@ public class Main {
     }
 
     public static void printPrimeNumbers(int[] array){
-        for(int i=0;i<array.length;i++){
-            int num =  array[i];
+        for(int i=0; i<array.length; i++){
+            int num = array[i];
+            boolean isPrime = true;
 
-            for(int i=2;i<=num;i++){
-                if(num%i==0){
-                    System.out.print(num+",");
+            if(num < 2){
+                isPrime = false;
+            } else {
+                for(int j=2; j<=Math.sqrt(num); j++){
+                    if(num % j == 0){
+                        isPrime = false;
+                        break;
+                    }
                 }
+            }
+
+            if(isPrime){
+                System.out.print(num + " ");
             }
         }
     }
