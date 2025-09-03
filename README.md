@@ -70,7 +70,7 @@ Resposta:  ihsus ✔️
 ```
 Qual o meu anime favorito?
 ```
-Resposta: 
+Resposta: One Piece
 ```
 Qual meme que eu mandei o Giancarlo fez que está referenciando em um vídeo?
 ```
