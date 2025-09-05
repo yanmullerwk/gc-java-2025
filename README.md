@@ -78,9 +78,9 @@ Resposta:
 ```
 Qual o melhor alien do Ben10?
 ```
-Resposta:
+Resposta: Chama
 ```
 Qual o meu cantor favorito?
 ```
-Resposta:
+Resposta: Teto
 ```
