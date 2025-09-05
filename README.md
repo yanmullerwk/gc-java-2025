@@ -70,7 +70,7 @@ Resposta:  ihsus ✔️
 ```
 Qual o meu anime favorito?
 ```
-Resposta: One Piece
+Resposta: One Piece ✔️
 ```
 Qual meme que eu mandei o Giancarlo fez que está referenciando em um vídeo?
 ```
@@ -78,9 +78,9 @@ Resposta:
 ```
 Qual o melhor alien do Ben10?
 ```
-Resposta: Chama
+Resposta: Chama ❌
 ```
 Qual o meu cantor favorito?
 ```
-Resposta: Teto
+Resposta: Teto ❌
 ```
