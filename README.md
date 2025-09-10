@@ -10,6 +10,8 @@
   <img width="150" height="150" alt="Aprovado" src="assets/bdg1.png" />
   <img width="150" height="150" alt="Senhor do Tempo" src="assets/badg2-senhor do tempo.png" />
     <img width="150" height="150" alt="Senhor do Tempo" src="assets/bdg4-Essa_e_facil.png" />
+      <img width="150" height="150" alt="Senhor do Tempo" src="assets/bdg-lista02.png" />
+
 </p>
 
 
