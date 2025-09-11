@@ -21,4 +21,10 @@ public class Concessionaria {
     public void addCarro(Carro car, int i){
         this.cars[i] = car;
     }
+
+    public void listaCarros(){
+        for(int i = 0; i < this.cars.length; i++){
+            System.out.println(this.cars[i].exibirDados());
+        }
+    }
 }
