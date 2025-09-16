@@ -82,9 +82,9 @@ Resposta:
 ```
 Qual o melhor alien do Ben10?
 ```
-Resposta: Chama ❌
+Resposta: fantasmatico
 ```
 Qual o meu cantor favorito?
 ```
-Resposta: Teto ❌
+Resposta: BMTH
 ```
