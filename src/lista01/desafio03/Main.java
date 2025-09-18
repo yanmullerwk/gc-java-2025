@@ -1,4 +1,4 @@
-package desafio03;
+package lista01.desafio03;
 
 import java.util.Scanner;
 
