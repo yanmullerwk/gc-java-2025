@@ -86,5 +86,5 @@ Resposta: fantasmatico
 ```
 Qual o meu cantor favorito?
 ```
-Resposta: BMTH
+Resposta: Oliver Sykes
 ```
