@@ -1,0 +1,16 @@
+INSERT INTO programacao_java.filmes_favoritos VALUES
+    (1, 'sab', 'Labirinto do fauno', 'ficção'),
+    (2, 'sab', 'Viagem de Chihiro', 'drama'),
+    (3, 'sab', 'O enigma de outro mundo', 'terror'),
+    (4, 'Igor', 'prenda-me se for capaz', 'comedia'),
+    (5, 'Igor', 'O predestinado', 'ficção cientifica'),
+    (6, 'Igor', 'Interestelar', 'ficção cientifica'),
+    (7, 'João', 'Jango livre', 'faroeste'),
+    (8, 'João', 'A hora do pesadelo', 'terror'),
+    (9, 'João', 'Rocky', 'Ação'),
+    (10, 'Hazel', 'wicked', 'musical'),
+    (11, 'Hazel', 'Interestelar', 'ficção cientifica'),
+    (12, 'Hazel', 'nimona', 'fantasia'),
+    (13, 'Yan', 'Vivendo a vida adoidado', 'comedia'),
+    (14, 'Yan', 'The Scret word of arriety', 'fantasia'),
+    (15, 'Yan', 'Kimi no na wa', 'romance');
