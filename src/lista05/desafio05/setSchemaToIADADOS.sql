@@ -1,0 +1,1 @@
+ALTER TABLE produtos SET SCHEMA ia_dados;

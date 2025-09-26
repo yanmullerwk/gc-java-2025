@@ -1,0 +1,1 @@
+UPDATE ia_dados.produtos SET preco = 450 WHERE preco = 350;
